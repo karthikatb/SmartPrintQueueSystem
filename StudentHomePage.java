@@ -135,7 +135,8 @@ public class StudentHomePage extends JFrame {
 
            
             JOptionPane.showMessageDialog(this,
-                    "✅ Print Request Submitted Successfully!\n"
+                   // "✅ Print Request Submitted Successfully!\n
+                                            "Print Request Submitted Successfully!\n"
                             + "File: " + fileName + "\n"
                             + "Color: " + color + "\n"
                             + "Side: " + side + "\n"
